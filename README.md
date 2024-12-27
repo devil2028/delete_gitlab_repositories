@@ -27,10 +27,12 @@
     ```
 
 ### 可能遇到的问题
+
 1.如果是使用的python3，请执行
     ```
     python3 delete_gitlab_repositories.py
     ```
+    
 2.报错，无法导入 requests库？
 
 在命令行中运行以下命令：
